@@ -5,11 +5,11 @@ I have an interest in game design and program desgin and development.
 
 Languages
 -----------------
-Python
-C++
-Java
-SQL
-HTML
-CSS
-COBOL (in progress of learning)
-Javascript(in progress of learning)
+Python  
+C++  
+Java  
+SQL  
+HTML  
+CSS  
+COBOL (in progress of learning)  
+Javascript(in progress of learning)  

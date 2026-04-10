@@ -11,5 +11,5 @@ Java
 SQL  
 HTML  
 CSS  
-COBOL (in progress of learning)  
-Javascript (in progress of learning)  
+COBOL  
+Javascript   

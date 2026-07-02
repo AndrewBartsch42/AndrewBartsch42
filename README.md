@@ -15,7 +15,7 @@ Java
 --	Designed a calculator using the JavaFX library  
 SQL  
 -- Built a mock database with functions, views, stored procedures, and queries up to 3rd normal form
-HTML/CSS/Javascript   
+HTML, CSS, Javascript   
 -- Front end design of an instructional website  
 -- Full stack design experience especially with node.js and API access  
 COBOL  
